@@ -1,0 +1,15 @@
+E:\Desktop\infa szkoła\projekty\Algorytmy sekwencyjne i rozgałęzione\zadanie 6\zadanie 6\bin\Debug\net7.0\zadanie 6.exe
+E:\Desktop\infa szkoła\projekty\Algorytmy sekwencyjne i rozgałęzione\zadanie 6\zadanie 6\bin\Debug\net7.0\zadanie 6.deps.json
+E:\Desktop\infa szkoła\projekty\Algorytmy sekwencyjne i rozgałęzione\zadanie 6\zadanie 6\bin\Debug\net7.0\zadanie 6.runtimeconfig.json
+E:\Desktop\infa szkoła\projekty\Algorytmy sekwencyjne i rozgałęzione\zadanie 6\zadanie 6\bin\Debug\net7.0\zadanie 6.dll
+E:\Desktop\infa szkoła\projekty\Algorytmy sekwencyjne i rozgałęzione\zadanie 6\zadanie 6\bin\Debug\net7.0\zadanie 6.pdb
+E:\Desktop\infa szkoła\projekty\Algorytmy sekwencyjne i rozgałęzione\zadanie 6\zadanie 6\obj\Debug\net7.0\zadanie 6.csproj.AssemblyReference.cache
+E:\Desktop\infa szkoła\projekty\Algorytmy sekwencyjne i rozgałęzione\zadanie 6\zadanie 6\obj\Debug\net7.0\zadanie 6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\infa szkoła\projekty\Algorytmy sekwencyjne i rozgałęzione\zadanie 6\zadanie 6\obj\Debug\net7.0\zadanie 6.AssemblyInfoInputs.cache
+E:\Desktop\infa szkoła\projekty\Algorytmy sekwencyjne i rozgałęzione\zadanie 6\zadanie 6\obj\Debug\net7.0\zadanie 6.AssemblyInfo.cs
+E:\Desktop\infa szkoła\projekty\Algorytmy sekwencyjne i rozgałęzione\zadanie 6\zadanie 6\obj\Debug\net7.0\zadanie 6.csproj.CoreCompileInputs.cache
+E:\Desktop\infa szkoła\projekty\Algorytmy sekwencyjne i rozgałęzione\zadanie 6\zadanie 6\obj\Debug\net7.0\zadanie 6.dll
+E:\Desktop\infa szkoła\projekty\Algorytmy sekwencyjne i rozgałęzione\zadanie 6\zadanie 6\obj\Debug\net7.0\refint\zadanie 6.dll
+E:\Desktop\infa szkoła\projekty\Algorytmy sekwencyjne i rozgałęzione\zadanie 6\zadanie 6\obj\Debug\net7.0\zadanie 6.pdb
+E:\Desktop\infa szkoła\projekty\Algorytmy sekwencyjne i rozgałęzione\zadanie 6\zadanie 6\obj\Debug\net7.0\zadanie 6.genruntimeconfig.cache
+E:\Desktop\infa szkoła\projekty\Algorytmy sekwencyjne i rozgałęzione\zadanie 6\zadanie 6\obj\Debug\net7.0\ref\zadanie 6.dll
